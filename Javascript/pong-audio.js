@@ -8,7 +8,7 @@ class soundFile {
   constructor(file, deferPlay) {
     //this.deferPlay = false;
     this.player = new Tone.Player({
-      url: "./sounds/" + file,
+      url: "./Sounds/" + file,
       loop: false,
       autostart: false
     }).toMaster();

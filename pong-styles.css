@@ -15,7 +15,7 @@ body {
   left: 0;
   position: absolute;
   background-size: cover;
-  background-image: ./"DiscoTurner.gif";
+  background-image: url("https://www.pinterest.com/pin/395613148498900476/");
 }
 
 #left-paddle {

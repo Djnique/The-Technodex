@@ -11,7 +11,7 @@ body {
 
 #game {
   margin: 10px;
-  border: 5px solid black;
+  border: 5px solid white;
   left: 0;
   position: absolute;
   background-size: cover;

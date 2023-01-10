@@ -49,7 +49,7 @@ soundArray.push(wallSound); //add sound to list of sounds
 export var paddleSound = new soundFile("tap-resonant.mp3");
 soundArray.push(paddleSound);
 
-export var scoreSound = new soundFile("tap-percussive.mp3");
+export var scoreSound = new soundFile("mixkit-dj-record-swipe-708.wav");
 soundArray.push(scoreSound);
 
 export var ambientSound = new soundFile("PleaseWork.mp3");

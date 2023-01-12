@@ -76,7 +76,7 @@ body {
 .ball {
   width: 20px;
   height: 20px;
-  background-color: #9925ce;
+  background-color: #f4ffff;
   border-radius: 10px;
   position: absolute;
   left: 50px;
@@ -91,10 +91,10 @@ body {
 
 #left-score {
   left: 1%;
-  background-color: white;
+  background-color: #98fefe;
 }
 
 #right-score {
   right: 1%;
-  background-color: white;
+  background-color: #e10736;
 }
